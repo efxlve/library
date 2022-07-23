@@ -1,0 +1,11 @@
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\Library_Project\Library_Project\bin\x86\Debug\Library_Project.exe.config
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\Library_Project\Library_Project\bin\x86\Debug\Library_Project.exe
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\Library_Project\Library_Project\bin\x86\Debug\Library_Project.pdb
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\Library_Project\Library_Project\obj\x86\Debug\Library_Project.csproj.AssemblyReference.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\Library_Project\Library_Project\obj\x86\Debug\Library_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\Library_Project\Library_Project\obj\x86\Debug\Library_Project.Form1.resources
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\Library_Project\Library_Project\obj\x86\Debug\Library_Project.Properties.Resources.resources
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\Library_Project\Library_Project\obj\x86\Debug\Library_Project.csproj.GenerateResource.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\Library_Project\Library_Project\obj\x86\Debug\Library_Project.csproj.CoreCompileInputs.cache
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\Library_Project\Library_Project\obj\x86\Debug\Library_Project.exe
+C:\Users\Efxlve\Documents\Programlama\Murat Yucedag\Library_Project\Library_Project\obj\x86\Debug\Library_Project.pdb
