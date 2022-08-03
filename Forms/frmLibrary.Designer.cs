@@ -182,11 +182,11 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(107, 227);
+            this.label5.Location = new System.Drawing.Point(89, 227);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(66, 23);
+            this.label5.Size = new System.Drawing.Size(86, 23);
             this.label5.TabIndex = 14;
-            this.label5.Text = "Status:";
+            this.label5.Text = "Situation:";
             // 
             // txtBookID
             // 
