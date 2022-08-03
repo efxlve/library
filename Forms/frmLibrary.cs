@@ -8,20 +8,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.OleDb;
-using System.IO;
 
 namespace Library_Project
 {
-    public partial class Form1 : Form
+    public partial class frmLibrary : Form
     {
-        public Form1()
+        public frmLibrary()
         {
             InitializeComponent();
         }
 
-        OleDbConnection connection = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + filepath + "\\Database\\Bookshelf.mdb");
-
-        static string filepath = Directory.GetCurrentDirectory();
+        OleDbConnection connection = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source= .\\Bookshelf.mdb");
 
         private void list()
         {
@@ -49,7 +46,8 @@ namespace Library_Project
 
         private void btnList_Click(object sender, EventArgs e)
         {
-            list();        }
+            list();        
+        }
 
         string situation = "";
         private void btnSave_Click(object sender, EventArgs e)
@@ -145,17 +143,6 @@ namespace Library_Project
                 MessageBox.Show("Error occured while updating book!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
-        }
-
-        private void txtFind_TextChanged(object sender, EventArgs e)
-        {
-            connection.Open();
-            OleDbCommand command = new OleDbCommand("SELECT * FROM Books WHERE BookName LIKE '%" + txtFind.Text + "%'", connection);
-            OleDbDataReader reader = command.ExecuteReader();
-            DataTable dataTable = new DataTable();
-            dataTable.Load(reader);
-            dataGridView1.DataSource = dataTable;
-            connection.Close();
         }
     }
 }

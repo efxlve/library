@@ -20,3 +20,14 @@ C:\Users\Efxlve\Desktop\Library_Project\Library_Project\obj\Debug\Library_Projec
 C:\Users\Efxlve\Desktop\Library_Project\Library_Project\obj\Debug\Library_Project.csproj.CoreCompileInputs.cache
 C:\Users\Efxlve\Desktop\Library_Project\Library_Project\obj\Debug\Library_Project.exe
 C:\Users\Efxlve\Desktop\Library_Project\Library_Project\obj\Debug\Library_Project.pdb
+D:\Projects\C#\Library_Project\Library_Project\bin\Debug\Library_Project.exe.config
+D:\Projects\C#\Library_Project\Library_Project\bin\Debug\Library_Project.exe
+D:\Projects\C#\Library_Project\Library_Project\bin\Debug\Library_Project.pdb
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\Library_Project.csproj.AssemblyReference.cache
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\Library_Project.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\Library_Project.Form1.resources
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\Library_Project.Properties.Resources.resources
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\Library_Project.csproj.GenerateResource.cache
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\Library_Project.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\Library_Project.exe
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\Library_Project.pdb

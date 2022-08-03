@@ -1,0 +1,11 @@
+D:\Projects\C#\Library_Project\Library_Project\bin\Debug\Library_Project.exe.config
+D:\Projects\C#\Library_Project\Library_Project\bin\Debug\Library_Project.exe
+D:\Projects\C#\Library_Project\Library_Project\bin\Debug\Library_Project.pdb
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\ProjectB.csproj.AssemblyReference.cache
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\ProjectB.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\Library_Project.frmLibrary.resources
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\Library_Project.Properties.Resources.resources
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\ProjectB.csproj.GenerateResource.cache
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\ProjectB.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\Library_Project.exe
+D:\Projects\C#\Library_Project\Library_Project\obj\Debug\Library_Project.pdb
